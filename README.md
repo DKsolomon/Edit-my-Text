@@ -10,6 +10,10 @@ Type whatever you'd like to your heart's content. Changes are saved, so that whe
 
 ## Application 
 
+Link to application 
+
+https://stormy-lowlands-65332.herokuapp.com/
+
 ## Media
 
-![Edit--my-Text](./client/src/images/Screenshot%20(149).png)
+![Edit-my-Text](./client/src/images/Screenshot%20(149).png)
